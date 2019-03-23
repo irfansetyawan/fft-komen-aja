@@ -200,6 +200,7 @@ console.log(chalk`
 {bold.cyan Recoded by Koe Nurf - SGB Team}
 {green BC0DE.NET - NAONLAH.NET - WingKocoli}
 {bold.red Code By Ccocot | ccocot@bc0de.net}
+{re-upload & fixed dikit by Irfan$etyawan}
 `);
 
 inquirer.prompt(User)
